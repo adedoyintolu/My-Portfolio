@@ -416,6 +416,7 @@ label.error{
 
 .text-primary{
   color:#cc4277;
+  font-size: 32px;
 }
 
 
@@ -486,6 +487,10 @@ label.error{
 
 .section-title{
   margin-top: 0;
+}
+
+.about-text {
+  text-align: justify !important;
 }
 
 .section-buttons .btn{
