@@ -452,7 +452,8 @@ label.error{
 }
 
 .row-columns{
-  margin-top: -4em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .column{
